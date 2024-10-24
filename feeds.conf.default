@@ -2,3 +2,7 @@ src-git packages https://github.com/padavanonly/packages.git;openwrt-18.06
 src-git luci https://github.com/padavanonly/luci.git;openwrt-18.06-k5.4
 src-git routing https://github.com/openwrt/routing.git
 src-git telephony https://github.com/openwrt/telephony.git
+src-git passwall_package https://github.com/xiaorouji/openwrt-passwall-packages
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git
+src-git clone https://github.com/sirpdboy/luci-app-ddns-go.git
+src-git_sparse_clone master https://github.com/vernesong/OpenClash luci-app-openclash
